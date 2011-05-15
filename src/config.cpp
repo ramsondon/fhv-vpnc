@@ -1,6 +1,6 @@
 #include "config.h"
 
-const QString Config::CONFIG_FILE = "afhv-vpn.conf";
+const QString Config::CONFIG_FILE = "/etc/vpnc/fhv-vpn.conf";
 
 const QString Config::USERNAME_DEFAULT = "";
 const QString Config::USER_PWD_DEFAULT = "";
